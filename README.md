@@ -127,22 +127,29 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Mapalo Kawaya
+**Student ID:** 2022018451
+**Design Theme:** I used a clean and eye-catching portfolio design paired with the colors purple and lavender as the color scheme. My layout is easy to read as well.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Media Queries
-- [ ] Other: _______________
+- [ ] Other: ____N/A___________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+One challenge I faced was making the layout responsive across different screen sizes. Initially, the project cards did not adjust properly on larger screens. I solved this by using CSS Grid with media queries to change the number of columns at different breakpoints (mobile, tablet, and desktop). Another challenge was aligning the navigation menu properly, which I fixed using Flexbox to control spacing and alignment.
+
+
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+### Credits
+Profile image: Personal photograph  
+Project images: Created by the author  
+
+Some design inspiration taken from modern portfolio layouts.  
+No external CSS frameworks or libraries were used.
 
 ---
 
